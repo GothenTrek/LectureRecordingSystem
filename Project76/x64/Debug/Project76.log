@@ -1,0 +1,61 @@
+﻿  Zoom.cpp
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(46): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(49): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(50): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(76): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(77): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(84): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(109): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(121): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(124): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(137): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(169): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(175): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(192): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(193): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(172): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(34): note: see reference to function template instantiation 'std::pair<int,int>::pair<float,float,void,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=float,
+              _Other2=float
+          ]
+  y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\zoom.cpp(32): note: see reference to function template instantiation 'std::pair<int,int>::pair<float,float,void,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=float,
+              _Other2=float
+          ]
+  TimestampWriter.cpp
+  TextEnhance.cpp
+  MovementDetect.cpp
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(56): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(57): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(58): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(71): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(77): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(82): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(121): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(130): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(143): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(152): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(159): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(193): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(199): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(208): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(215): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(217): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\movementdetect.cpp(233): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  LectureRecord.cpp
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\lecturerecord.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\lecturerecord.cpp(86): warning C4305: 'initializing': truncation from 'double' to 'float'
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\lecturerecord.cpp(89): warning C4305: 'initializing': truncation from 'double' to 'float'
+y:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\lecturerecord.cpp(111): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Error.cpp
+  Camera.cpp
+  Generating Code...
+  Project76.vcxproj -> Y:\University - Computer Science\Year 3\Semester 1\Individual Project\ImageManipulation\Project76\Project76\x64\Debug\Project76.exe
+  Project76.vcxproj -> Y:\University - Computer Science\Year 3\Semester 1\Individual Project\ImageManipulation\Project76\Project76\x64\Debug\Project76.pdb (Full PDB)

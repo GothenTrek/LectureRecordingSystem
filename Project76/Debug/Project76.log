@@ -1,0 +1,10 @@
+﻿  main.cpp
+k:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\main.cpp(24): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+k:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\main.cpp(39): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+k:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\main.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+k:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\main.cpp(82): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+k:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\main.cpp(114): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+k:\university - computer science\year 3\semester 1\individual project\imagemanipulation\project76\project76\project76\main.cpp(142): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Camera.cpp
+  Generating Code...
+opencv_world320d.lib(opencv_world320d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
